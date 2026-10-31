@@ -4,11 +4,6 @@ Previously presented at: [EXPOESCOM](https://www.escom.ipn.mx/) · [Talent Land]
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&hide_border=true" width="48%" />
-</div>
-
 <p align="center">
   <sub>Above stats generated with <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></sub>
 </p>
