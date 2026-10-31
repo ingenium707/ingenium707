@@ -4,11 +4,6 @@ Previously presented at: [EXPOESCOM](https://www.escom.ipn.mx/) · [Talent Land]
 
 ---
 
-<p align="center">
-  <sub>Above stats generated with <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></sub>
-</p>
-
----
 
 ## Recent Projects
 
