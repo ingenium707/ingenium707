@@ -5,13 +5,15 @@
 </p>
 
 
-# ─── ✧ ABOUT ME ✧ ───
+# <span style="color: #00FFFF;">─── ✧ ABOUT ME ✧ ───</span>
+
 
 Building useful things and learning in public.
 - I am a student of Computer Systems Engineering Current student at [ESCOM](https://www.escom.ipn.mx/).
 
 
-## Stack
+# <span style="color: #00FFFF;">─── ✧ STACK ✧ ───</span>
+
 
 No public language data yet — building the first project in the open.
 
