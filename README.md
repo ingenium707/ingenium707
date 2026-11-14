@@ -1,40 +1,33 @@
+# ⚡ This is Ingenium
 
+> **Estudiante de Ingeniería en Sistemas Computacionales** | Apasionada por la Ciberseguridad, Ethical Hacking & CTFs
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ingenium707&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F310469455%3Fu%3Dbf551ca1a58018d3b21e65b2461b91d1ee4341df%26v%3D4" alt="ingenium707 hero visual" />
-</p>
+---
 
+### 👩‍💻 Sobre mí
 
-# <span style="color: #00FFFF;">─── ✧ ABOUT ME ✧ ───</span>
+- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales**.
+- 🔐 Interesada en **Ciberseguridad**, **Ethical Hacking** y competencias **CTF**.
+- 🛠️ En constante desarrollo de proyectos, estructuras de datos y administración de sistemas.
 
+---
 
-Building useful things and learning in public.
-- I am a student of Computer Systems Engineering Current student at [ESCOM](https://www.escom.ipn.mx/).
+### 🛠️ Tecnologías y Herramientas
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![UNIX](https://img.shields.io/badge/UNIX-4E4054?style=flat-square&logo=gnu&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-# <span style="color: #00FFFF;">─── ✧ STACK ✧ ───</span>
+---
 
+### 🌐 Contacto
 
-No public language data yet — building the first project in the open.
-
-## Signals
-
-<table>
-<tr><td align="center"><b>2</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>8</b><br/><sub>contributions</sub></td></tr>
-</table>
-
-## Projects
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=ingenium707&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F310469455%3Fu%3Dbf551ca1a58018d3b21e65b2461b91d1ee4341df%26v%3D4" alt="ingenium707 projects visual" />
-</p>
-
-## Contact
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=ingenium707&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F310469455%3Fu%3Dbf551ca1a58018d3b21e65b2461b91d1ee4341df%26v%3D4" alt="ingenium707 social visual" />
-</p>
-
-<a href="https://github.com/ingenium707">GitHub</a>
-
-<p align="center"><sub>Ingenium · <a href="https://www.gitskins.com/readme-generator?template=community-akshay-kumar-k-887g">Akshay Kumar k</a> template by <a href="https://www.gitskins.com/creators/Akshayk4284">@Akshayk4284</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
