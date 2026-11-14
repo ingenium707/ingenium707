@@ -4,9 +4,8 @@
   <img src="https://www.gitskins.com/api/section/hero?username=ingenium707&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F310469455%3Fu%3Dbf551ca1a58018d3b21e65b2461b91d1ee4341df%26v%3D4" alt="ingenium707 hero visual" />
 </p>
 
-**Ingenium** · Product-minded developer
 
-## About Me
+# ─── ✧ ABOUT ME ✧ ───
 
 Building useful things and learning in public.
 - I am a student of Computer Systems Engineering Current student at [ESCOM](https://www.escom.ipn.mx/).
