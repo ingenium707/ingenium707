@@ -1,14 +1,28 @@
 # ⚡ This is Ingenium
 
-> **Estudiante de Ingeniería en Sistemas Computacionales** | Apasionada por la Ciberseguridad, Ethical Hacking & CTFs
+> **Estudiante de Ingeniería en Sistemas Computacionales @ ESCOM - IPN**  
+> *Apasionada por la Ciberseguridad, Ethical Hacking & CTFs*
+
+---
+
+💬 **"Siguiendo varios puntos a la vez"|| Rin**
 
 ---
 
 ### 👩‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales**.
+- 🏛️ Orgullosamente estudiante en la **Escuela Superior de Cómputo (ESCOM)** del **Instituto Politécnico Nacional (IPN)** 🇲🇽.
+- 🎓 Cursando la carrera de **Ingeniería en Sistemas Computacionales**.
 - 🔐 Interesada en **Ciberseguridad**, **Ethical Hacking** y competencias **CTF**.
 - 🛠️ En constante desarrollo de proyectos, estructuras de datos y administración de sistemas.
+
+---
+
+### 📚 Materias Dominadas
+
+- 🧮 **Ciencias Básicas:** Cálculo, Álgebra Lineal, Matemáticas Discretas.
+- 💻 **Ciencias de la Computación:** Programación Estructurada (C), Estructuras de Datos, Algoritmos.
+- 🐧 **Sistemas:** Fundamentos de Sistemas Operativos, Administración de Linux/UNIX.
 
 ---
 
@@ -27,7 +41,20 @@
 
 ---
 
-### 🌐 Contacto
+### 📌 Repositorios Destacados
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+- 📂 **[MonorepoCIC_ENGLISH-VERSION](https://github.com/ingenium707/MonorepoCIC_ENGLISH-VERSION)**  
+  > Algoritmos, ejercicios y prácticas desarrollados durante el curso de programación (Versión en inglés).
+- 📂 **[MonorepoCIC_SPANISH-VERSION](https://github.com/ingenium707/MonorepoCIC_SPANISH-VERSION)**  
+  > Algoritmos, ejercicios y prácticas desarrollados durante el curso de programación (Versión en español).
+
+---
+### 🌐 Contacto y Redes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-sarahi-g%C3%B3mez-morales-664780425/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ingenium707)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ingenium.ft/?hl=es)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1RwoncMyHPDEAfuymzVOccJir3EVD5nhZ?usp=sharing)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ingenium707)
+
+- 📧 **Contacto:** [ingenium.rin@gmail.com](mailto:ingenium.rin@gmail.com)
